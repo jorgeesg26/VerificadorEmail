@@ -1,0 +1,9 @@
+
+Jorge Salguero Abad
+ colorMensajeCorrecto colorMensajeIncorrecto colorTextArriba colorTextoHint colorBordeCorrecto colorBordeIncorrecto colorBordePorDefecto
+
+fuenteMensajeError fuenteTextHint fuenteTextoArriba
+
+ textMensajeIncorrecto textoArriba textHint textMensajeCorrecto
+
+https://github.com/jorgeesg26/VerificadorEmail.git
